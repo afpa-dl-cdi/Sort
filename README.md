@@ -10,8 +10,6 @@ Stable mais plus lent, il peut s'avérer efficace sur les petits tableaux
 
 ###Tri à bulles
 
-###Tri rapide
-
 ## Affichage des tableaux
 La classe statique DIS et sa fonction Play (Dis.Play) permet l'affichage de tableau de manière générique grâce à la syntaxe générique : 
 <code>
